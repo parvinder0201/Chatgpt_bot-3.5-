@@ -102,4 +102,4 @@ To run the ChatGPT bot, execute the following command in your terminal or comman
 $ streamlit run chatbot_app.py
 
 ```
-<img width="1676" alt="Screenshot 2023-07-25 at 8 38 35 AM" src="https://github.com/anishsingh20/Streamlit-Webapp-ChatGPT/assets/15655876/b0107b9b-f634-491a-8b02-ee2736420615">
+<img width="1676" alt="Screenshot 2023-07-25 at 8 38 35 AM" src="https://github.com/parvinder0201/Chatgpt_bot-3.5-/blob/main/Screenshot%202024-04-11%20011303.png">
