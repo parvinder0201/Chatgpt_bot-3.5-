@@ -19,7 +19,7 @@ Your own customizable ChatGPT Webapp made in Python using Streamlit.
    ```shell
     $ streamlit run chatbot_app.py
    ```
-   <img width="1673" alt="Screenshot 2023-07-25 at 8 21 36 AM" src="https://github.com/anishsingh20/Streamlit-Webapp-ChatGPT/assets/15655876/ca0b7138-47e9-4406-8069-358c4fa6456e">
+   <img width="1673" alt="Screenshot 2023-07-25 at 8 21 36 AM" src="https://github.com/parvinder0201/Chatgpt_bot-3.5-/blob/main/Screenshot%202024-04-11%20010843.png">
 
 
 ## INTRODUCTION
