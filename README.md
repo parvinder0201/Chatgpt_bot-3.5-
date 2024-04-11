@@ -96,7 +96,7 @@ if prompt := st.chat_input("What is up?"):
 
 ```
 
-The above code can also be found inside the directory ```Streamlit-GPT-app\GptWebappv2.py``` 
+The above code can also be found inside the directory ```app.py``` 
 
 ### 3. Running the ChatGPT Bot using Streamlit
 
