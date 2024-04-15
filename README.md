@@ -24,7 +24,7 @@ Your own customizable ChatGPT Webapp made in Python using Streamlit.
 
 
 https://github.com/parvinder0201/Chatgpt_bot-3.5-/assets/107706189/dfa5af9f-9167-43ea-a031-546fdb0081dd
-https://github.com/parvinder0201/Chatgpt_bot-3.5-/blob/main/Recording%202024-04-11%20011949.mp4
+
 
 
 
